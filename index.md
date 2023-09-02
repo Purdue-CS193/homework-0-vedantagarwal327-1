@@ -4,6 +4,13 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Bulleted List:
+- I like Jag and Shruti
+- I like that there are no exams.
+- I like that the PSO sessions are optional.
+- I like that I am learning something useful.
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
